@@ -213,4 +213,4 @@ heart-disease-prediction-streamlit/
 
 **Aryan Verma**  
 - GitHub: [@aryanv2504](https://github.com/aryanv2504)
-- Project Link: [Heart Disease Prediction System](https://github.com/aryanv2504/heart-disease-prediction-streamlit)
+- Project Link: [Heart Disease Prediction System](https://github.com/aryanv2504/aryanv2504-heart-disease-prediction-streamlit)
