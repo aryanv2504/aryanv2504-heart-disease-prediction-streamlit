@@ -209,29 +209,6 @@ heart-disease-prediction-streamlit/
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions to improve the Heart Disease Prediction System:
-
-1. **Fork the repository**
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-3. **Make your changes and test thoroughly**
-4. **Commit your changes**
-   ```bash
-   git commit -m 'Add amazing feature'
-   ```
-5. **Push to the branch**
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-6. **Open a Pull Request**
-
----
-
-
 ## 👨‍💻 Developer
 
 **Aryan Verma**  
