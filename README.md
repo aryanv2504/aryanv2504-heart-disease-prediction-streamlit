@@ -33,8 +33,10 @@ A comprehensive machine learning-powered heart disease prediction system built w
 ## 📸 Application Screenshots
 
 ### Main Interface
-![App Home Screen](./ss1.jpg)
-![App Home Screen](./ss2.jpg)
+![Screenshot 1](assets/ss%201.jpg)
+![Screenshot 2](assets/ss%202.jpg)
+![Screenshot 3](assets/ss%203.jpg)
+![Screenshot 4](assets/ss%204.jpg)
 
 
 
@@ -43,24 +45,22 @@ A comprehensive machine learning-powered heart disease prediction system built w
 ## 📈 Model Performance & Analytics
 
 ### ROC Analysis
-![ROC Curve Analysis](./SCREENSHOT%20-%20ROC%20CURVE.jpg)
+![ROC Curve](assets/SCREENSHOT%20-%20ROC%20CURVE.jpg)
 
 ### Feature Importance
-![Feature Distribution Analysis](./SCREENSHOT-FEATURE%20DISTRIBUTION.jpg)
+![Feature Distribution](assets/SCREENSHOT-FEATURE%20DISTRIBUTION.jpg)
 
 ---
 
 ## 🔍 Confusion Matrix Results
 
 ### Logistic Regression (Selected Model)
-![Logistic Regression Confusion Matrix](./SCREENSHOT-LOGISTIC%20REGRESSION-CONFUSION%20MATRIX.jpg)
+![Logistic Regression Confusion Matrix](assets/SCREENSHOT-LOGISTIC%20REGRESSION-CONFUSION%20MATRIX.jpg)
 
 ### Random Forest
-![Random Forest Confusion Matrix](./SCREENSHOT-RANDOM%20FOREST-CONFUSION%20MATRIX.jpg)
+![Random Forest Confusion Matrix](assets/SCREENSHOT-RANDOM%20FOREST-CONFUSION%20MATRIX.jpg)
 ### XGBoost
-![XGBoost Confusion Matrix](./SCREENSHOT-XG%20BOOST-CONFUSION%20MATRIX.jpg)
-
----
+![XGBoost Confusion Matrix](assets/SCREENSHOT-XG%20BOOST-CONFUSION%20MATRIX.jpg)
 
 ## 📋 Dataset Information
 
