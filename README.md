@@ -47,7 +47,7 @@ A comprehensive machine learning-powered heart disease prediction system built w
 ### ROC Analysis
 ![ROC Curve](assets/SCREENSHOT%20-%20ROC%20CURVE.jpg)
 
-### Feature Importance
+### Feature Distribution
 ![Feature Distribution](assets/SCREENSHOT-FEATURE%20DISTRIBUTION.jpg)
 
 ---
