@@ -152,36 +152,6 @@ Explore detailed model performance metrics, feature importance, and comparative 
 - Integration with Streamlit interface
 - Real-time prediction pipeline
 
----
-
-## Project Structure
-
-```
-heart-disease-prediction-streamlit/
-├── README.md                           
-├── requirements.txt                  
-├── app.py                            
-├── model/
-│   ├── heart_disease_model.pkl       
-│   └── model_training.ipynb           
-├── data/
-│   └── cleveland_heart_disease.csv    
-├── assets/
-│   └── screenshots/                   
-│       ├── ss1.jpg                    
-│       ├── ss2.jpg                    
-│       ├── ss3.jpg                   
-│       ├── ss4.jpg                    
-│       ├── SCREENSHOT - ROC CURVE.jpg
-│       ├── SCREENSHOT-BEST MODEL.jpg
-│       ├── SCREENSHOT-FEATURE DISTRIBUTION.jpg
-│       ├── SCREENSHOT-LOGISTIC REGRESSION-CONFUSION MATRIX.jpg
-│       ├── SCREENSHOT-RANDOM FOREST-CONFUSION MATRIX.jpg
-│       └── SCREENSHOT-XG BOOST-CONFUSION MATRIX.jpg
-└── utils/
-    ├── data_processing.py            
-    └── model_utils.py                 
-```
 
 ---
 
