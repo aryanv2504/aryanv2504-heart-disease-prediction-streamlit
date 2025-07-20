@@ -158,20 +158,20 @@ Explore detailed model performance metrics, feature importance, and comparative 
 
 ```
 heart-disease-prediction-streamlit/
-├── README.md                           # Project documentation
-├── requirements.txt                    # Python dependencies
-├── app.py                             # Main Streamlit application
+├── README.md                           
+├── requirements.txt                  
+├── app.py                            
 ├── model/
-│   ├── heart_disease_model.pkl        # Trained model (Logistic Regression)
-│   └── model_training.ipynb           # Model development notebook
+│   ├── heart_disease_model.pkl       
+│   └── model_training.ipynb           
 ├── data/
-│   └── cleveland_heart_disease.csv    # Training dataset
+│   └── cleveland_heart_disease.csv    
 ├── assets/
-│   └── screenshots/                   # Application screenshots
-│       ├── ss1.jpg                    # Main interface
-│       ├── ss2.jpg                    # Patient registration
-│       ├── ss3.jpg                    # Patient search
-│       ├── ss4.jpg                    # Prediction results
+│   └── screenshots/                   
+│       ├── ss1.jpg                    
+│       ├── ss2.jpg                    
+│       ├── ss3.jpg                   
+│       ├── ss4.jpg                    
 │       ├── SCREENSHOT - ROC CURVE.jpg
 │       ├── SCREENSHOT-BEST MODEL.jpg
 │       ├── SCREENSHOT-FEATURE DISTRIBUTION.jpg
@@ -179,8 +179,8 @@ heart-disease-prediction-streamlit/
 │       ├── SCREENSHOT-RANDOM FOREST-CONFUSION MATRIX.jpg
 │       └── SCREENSHOT-XG BOOST-CONFUSION MATRIX.jpg
 └── utils/
-    ├── data_processing.py             # Data preprocessing utilities
-    └── model_utils.py                 # Model helper functions
+    ├── data_processing.py            
+    └── model_utils.py                 
 ```
 
 ---
